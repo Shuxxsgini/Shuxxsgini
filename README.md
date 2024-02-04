@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shuxxsgini/Shuxxsgini/blob/main/Screenshot%202024-02-04%20105140.png)
 <h1 align="center">Hi 👋, I'm Shubhangini</h1>
 <h3 align="center">A passionate Front-End Web Developer from India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" width="400"
